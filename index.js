@@ -10,6 +10,7 @@ const corsOptions = {
     'http://localhost:5173',
     'http://localhost:5174',
     'https://at-url.vercel.app',
+    'https://server-9030.netlify.app',
     'https://service-a.vercel.app',
   ],
   credentials: true,
